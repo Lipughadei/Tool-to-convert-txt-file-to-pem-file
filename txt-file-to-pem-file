@@ -1,0 +1,1 @@
+Move-Item 'C:\Users\asus\Downloads\my-key-pair.txt' 'C:\Users\asus\Downloads\my-key-pair.pem'  (run in Powershell)
