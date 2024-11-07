@@ -1,3 +1,5 @@
 Move-Item 'C:\Users\asus\Downloads\my-key-pair.txt' 'C:\Users\asus\Downloads\my-key-pair.pem'  (run in Powershell)
 
 ssh -i C:\Users\asus\Downloads\my-key-pair.pem ec2-user@3.110.223.163 (to connect to the instance)
+
+https://stackoverflow.com/questions/68485601/convert-filetype-of-cert-from-txt-to-pem  (URL FOR THIS)
